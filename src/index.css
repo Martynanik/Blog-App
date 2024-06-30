@@ -1,0 +1,29 @@
+.green{
+  background-color: green;
+}
+
+.postCard {
+  width: 200px;
+  height: 300px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+.addFav {
+  font-size: 30px;
+  cursor: pointer;
+}
+
+img{
+  height: 100px;
+  width: 100px;
+}
+
+.active{
+  font-weight: bold;
+}
+
+.big-img{
+  height: 300px;
+  width: 300px;
+}
